@@ -1,2 +1,6 @@
-# Charla-git
-Repositorrio para el taller
+Me llamo Paco
+
+
+
+Como mola git
+
